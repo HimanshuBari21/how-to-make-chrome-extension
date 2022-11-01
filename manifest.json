@@ -1,0 +1,11 @@
+{
+    "name": "Analog Clock with AM PM",
+    "version": "1.0.0",
+    "description": "Analog Clock with AM PM",
+    "manifest_version": 3,
+    "author": "Himanshu Bari",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Analog Clock with AM PM"
+    }
+}
